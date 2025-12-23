@@ -1,6 +1,6 @@
-# TicketOps
+# TicketOps AI
 
-TicketOps is an intelligent ticket management system that leverages AI to automate ticket assignment and classification. It uses a modern fullstack architecture with React, Express, and MongoDB, orchestrated by Inngest for background workflows.
+TicketOps AI is an intelligent ticket management system that leverages AI to automate ticket assignment and classification. It uses a modern fullstack architecture with React, Express, and MongoDB, orchestrated by Inngest for background workflows.
 
 ## 🚀 Features
 
@@ -14,7 +14,7 @@ TicketOps is an intelligent ticket management system that leverages AI to automa
 - **Frontend**: React, Vite, React Router, Axios
 - **Backend**: Express.js, Node.js
 - **Database**: MongoDB (Mongoose)
-- **AI/Automation**: Google Gemini AI, Inngest
+- **AI/Automation**: Gemini AI, Inngest
 - **Emails**: Nodemailer
 
 ## 📦 Project Structure
@@ -26,10 +26,10 @@ TicketOps is an intelligent ticket management system that leverages AI to automa
 
 ### Prerequisites
 
-- Node.js installed
-- MongoDB instance (local or Atlas)
-- Google Gemini API Key
-- Inngest Dev Server
+- Node.js
+- MongoDB 
+- Gemini API Key
+- Inngest
 
 ### Installation
 
@@ -59,7 +59,3 @@ TicketOps is an intelligent ticket management system that leverages AI to automa
    cd client
    npm run dev
    ```
-
-## 📄 License
-
-ISC License
